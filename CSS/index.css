@@ -285,7 +285,6 @@ h1,h2,h3,article,li{
 }
 
 .flyt {
-  element.style 
     position: relative;
-    top: -300px;
+    top: -115px;
 }
